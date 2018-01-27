@@ -67,7 +67,7 @@ else:
         week_menu(1)
     elif day == "tuesday":
         week_menu(2)
-    elif dau == "wednesday":
+    elif day == "wednesday":
         week_menu(3)
     elif day == "thursday":
         week_menu(4)
