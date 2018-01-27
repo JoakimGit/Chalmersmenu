@@ -1,5 +1,5 @@
 # Chalmersmenu
-Used to find this weeks menu from the resturant at Chalmers.
+Used to find this weeks menu from the restaurant at Chalmers.
 
 Function call: python menu.py [opt: specify day]
 
